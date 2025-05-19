@@ -20,6 +20,9 @@ STEP 6 : Stop.
 
 ### Program:
 ```
+#Name:Lavanya S
+#Reg no:212222070017
+
 class Node:
             def     __init__ (self, data):
                   self.data = data
